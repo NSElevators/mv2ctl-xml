@@ -1,5 +1,5 @@
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
 <app appid="jcpannnabgpcoibpfkiliakaaemlehbp">
-<updatecheck codebase="https://github.com/gorhill/uBlock/releases/download/1.75.1b12/uBlock0_1.75.1b12.chromium.crx" version="1.75.1b12" prodversionmin="110"/>
+<updatecheck codebase="https://github.com/gorhill/uBlock/releases/download/1.75.1b12/uBlock0_1.75.1b12.chromium.crx" version="1.75.1.12" prodversionmin="110"/>
 </app>
 </gupdate>
